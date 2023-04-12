@@ -1,3 +1,4 @@
+//Cambio de caracteres. Al número 3, se le debe asignar el caracter "E"
 public class Guía3_Extra12 {
 
     /**
