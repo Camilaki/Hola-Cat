@@ -9,4 +9,7 @@ Más pruebas de escritorio
 Sesión 1: 15/03/23
 Sesión 2: 22/03/23
 Sesión 3: 26/03/23
+
+Nueva sesion: 19/05
+Nuevos cambios en el repositorio remoto
   
